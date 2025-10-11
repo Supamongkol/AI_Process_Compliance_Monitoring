@@ -1,3 +1,6 @@
+# updated 11-Oct-2025
+# Python 3.8+
+
 import cv2
 import mediapipe as mp
 import numpy as np
