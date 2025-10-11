@@ -1,0 +1,33 @@
+{
+  "station": "STATION_01",
+  "workflow": [
+    {
+      "id": 0,
+      "label": "Trigger ROI0",
+      "rect_norm": [0.3, 0.6, 0.7, 0.9], 
+      "dwell_time": 0.0,
+      "hand_condition": "ANY"
+    },
+    {
+      "id": 1,
+      "label": "Step 1",
+      "rect_norm": [0.1, 0.2, 0.3, 0.4],
+      "dwell_time": 0.5,
+      "hand_condition": "CLOSED"
+    },
+    {
+      "id": 2,
+      "label": "Step 2",
+      "rect_norm": [0.35, 0.2, 0.55, 0.4],
+      "dwell_time": 0.7,
+      "hand_condition": "CLOSED"
+    },
+    {
+      "id": 3,
+      "label": "Step 3",
+      "rect_norm": [0.6, 0.2, 0.8, 0.4],
+      "dwell_time": 0.6,
+      "hand_condition": "OPEN"
+    }
+  ]
+}

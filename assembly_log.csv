@@ -1,0 +1,3 @@
+time,roi,rect,dwell_time,result,station,hand_state,hand_ratio
+2025-10-11 12:37:40,3,"(138, 276, 470, 466)",0.505,OUT_OF_ORDER,ssssssssssssss,CLOSED,0.067
+2025-10-11 12:37:59,2,"(237, 40, 456, 238)",0.505,OUT_OF_ORDER,ssssssssssssss,CLOSED,0.115

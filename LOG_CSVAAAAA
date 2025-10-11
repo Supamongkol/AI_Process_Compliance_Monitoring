@@ -1,0 +1,2 @@
+time,roi,rect_norm,dwell_time,station,hand_state,hand_ratio,result
+2025-10-11 10:49:46,1,"(0.125, 0.10208333333333333, 0.7796875, 0.8333333333333334)",0.516,AAAAA,CLOSED,0.223,OK
