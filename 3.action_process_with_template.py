@@ -8,7 +8,7 @@ import pandas as pd
 CONFIG_JSON = "workflow_config.json"
 LOG_CSV = "assembly_log.csv"
 TEMPLATE_IMG = r"D:\255441\Project 2025\1.Process Activity\IMG20251010152443.jpg"  # template ของชิ้นงานใน ROI0
-HAND_OPEN_THRESHOLD = 0.5  # threshold สำหรับ open/close
+HAND_OPEN_THRESHOLD = 0.2  # threshold สำหรับ open/close
 
 # Mediapipe hands
 mp_hands = mp.solutions.hands
