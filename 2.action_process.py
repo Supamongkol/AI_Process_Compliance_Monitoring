@@ -5,7 +5,7 @@ import time
 import json
 import pandas as pd
 
-CONFIG_JSON = "workflow_config.json"
+CONFIG_JSON = r"D:\4.Machine Learning(AI)\Image process\4. Activities Monitoring\AI_Process_Compliance_Monitoring\workflow_config.json"
 LOG_CSV = "assembly_log.csv"
 HAND_OPEN_THRESHOLD = 0.20  # threshold สำหรับ open/close
 
